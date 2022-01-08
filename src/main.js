@@ -5,6 +5,8 @@ import store from './store'
 
 import axiosPlugin from './plugins/axiosPlugin'
 
+import './assets/css/style.css'
+
 import AppLayout from './layouts/AppLayout'
 
 const app = createApp(App)
